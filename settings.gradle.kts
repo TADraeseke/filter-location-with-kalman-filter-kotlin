@@ -22,4 +22,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Filter location with kalman filter"
 include(":app")
- 
